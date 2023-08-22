@@ -1,0 +1,14 @@
+.pagina-cabecalho {
+    display: flex;
+    flex-direction: row;
+    padding: 25px 50px;
+    align-items: center;
+    color: #C2C2C2;
+    background-color: #fff;
+
+    p {
+        margin-left: 8px;
+        font-weight: bold;
+    }
+
+}
